@@ -9,6 +9,8 @@
 <body>
     <form id="form1" runat="server">
     <div>
+        <asp:Label ID="lblfoodcode" runat="server" Text="รหัสขนมหวาน :"></asp:Label>
+        <asp:TextBox ID="txtfoodcode" runat="server"></asp:TextBox><br/>
         <asp:Label ID="lblfoodcode" runat="server" Text="รหัสอาหาร :"></asp:Label>
         <asp:TextBox ID="txtfoodcode" runat="server"></asp:TextBox><br/>
         <asp:Label ID="lblfoodname" runat="server" Text="ชื่ออาหาร :"></asp:Label>
