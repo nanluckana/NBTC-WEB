@@ -1,0 +1,4 @@
+c:\users\nannie\documents\visual studio 2010\Projects\My3tier\BO\bin\BO.dll
+c:\users\nannie\documents\visual studio 2010\Projects\My3tier\BO\bin\BO.pdb
+c:\users\nannie\documents\visual studio 2010\Projects\My3tier\BO\obj\Debug\BO.dll
+c:\users\nannie\documents\visual studio 2010\Projects\My3tier\BO\obj\Debug\BO.pdb

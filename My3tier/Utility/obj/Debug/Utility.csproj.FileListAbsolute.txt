@@ -1,0 +1,4 @@
+c:\users\nannie\documents\visual studio 2010\Projects\My3tier\Utility\bin\Utility.dll
+c:\users\nannie\documents\visual studio 2010\Projects\My3tier\Utility\bin\Utility.pdb
+c:\users\nannie\documents\visual studio 2010\Projects\My3tier\Utility\obj\Debug\Utility.dll
+c:\users\nannie\documents\visual studio 2010\Projects\My3tier\Utility\obj\Debug\Utility.pdb

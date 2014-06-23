@@ -1,0 +1,11 @@
+c:\users\nannie\documents\visual studio 2010\Projects\My3tier\BAL\bin\BAL.dll
+c:\users\nannie\documents\visual studio 2010\Projects\My3tier\BAL\bin\BAL.pdb
+c:\users\nannie\documents\visual studio 2010\Projects\My3tier\BAL\obj\Debug\BAL.dll
+c:\users\nannie\documents\visual studio 2010\Projects\My3tier\BAL\obj\Debug\BAL.pdb
+c:\users\nannie\documents\visual studio 2010\Projects\My3tier\BAL\bin\BO.dll
+c:\users\nannie\documents\visual studio 2010\Projects\My3tier\BAL\bin\BO.pdb
+c:\users\nannie\documents\visual studio 2010\Projects\My3tier\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+c:\users\nannie\documents\visual studio 2010\Projects\My3tier\BAL\bin\DAL.dll
+c:\users\nannie\documents\visual studio 2010\Projects\My3tier\BAL\bin\Utility.dll
+c:\users\nannie\documents\visual studio 2010\Projects\My3tier\BAL\bin\DAL.pdb
+c:\users\nannie\documents\visual studio 2010\Projects\My3tier\BAL\bin\Utility.pdb

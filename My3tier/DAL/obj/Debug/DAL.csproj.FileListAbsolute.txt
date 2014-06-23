@@ -1,0 +1,9 @@
+c:\users\nannie\documents\visual studio 2010\Projects\My3tier\DAL\bin\DAL.dll
+c:\users\nannie\documents\visual studio 2010\Projects\My3tier\DAL\bin\DAL.pdb
+c:\users\nannie\documents\visual studio 2010\Projects\My3tier\DAL\obj\Debug\DAL.dll
+c:\users\nannie\documents\visual studio 2010\Projects\My3tier\DAL\obj\Debug\DAL.pdb
+c:\users\nannie\documents\visual studio 2010\Projects\My3tier\DAL\bin\BO.dll
+c:\users\nannie\documents\visual studio 2010\Projects\My3tier\DAL\bin\Utility.dll
+c:\users\nannie\documents\visual studio 2010\Projects\My3tier\DAL\bin\BO.pdb
+c:\users\nannie\documents\visual studio 2010\Projects\My3tier\DAL\bin\Utility.pdb
+c:\users\nannie\documents\visual studio 2010\Projects\My3tier\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache

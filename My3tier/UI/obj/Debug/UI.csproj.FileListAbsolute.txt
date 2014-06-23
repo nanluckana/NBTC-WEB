@@ -1,0 +1,4 @@
+c:\users\nannie\documents\visual studio 2010\Projects\My3tier\UI\bin\UI.dll
+c:\users\nannie\documents\visual studio 2010\Projects\My3tier\UI\bin\UI.pdb
+c:\users\nannie\documents\visual studio 2010\Projects\My3tier\UI\obj\Debug\UI.dll
+c:\users\nannie\documents\visual studio 2010\Projects\My3tier\UI\obj\Debug\UI.pdb
