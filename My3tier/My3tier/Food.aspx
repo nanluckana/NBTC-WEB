@@ -20,8 +20,8 @@
         <asp:DropDownList ID="drpcategoryfood" runat="server" >
         </asp:DropDownList><br/>
         <br/>
-        <asp:Button ID="btnsave" runat="server" Text="บันทึก" onclick="btnsave_Click" />
-        <asp:Button ID="btnsearch" runat="server" Text="ค้นหาข้อมูล" 
+        <asp:Button ID="btnsave" runat="server" Text="SAVE" onclick="btnsave_Click" />
+        <asp:Button ID="btnsearch" runat="server" Text="SEARCH" 
             onclick="btnsearch_Click" />
         <asp:Button ID="btnserchbyname" runat="server" Text="ค้นหาด้วยชื่อ" 
             onclick="btnserchbyname_Click" />
